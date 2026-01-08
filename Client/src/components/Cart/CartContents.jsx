@@ -11,7 +11,7 @@ const CartContents = () => {
             color: "Red",
             quantity: 1,
             price: "4000$",
-            image: "https://picsum.photos/200"
+            image: "https://picsum.photos/500/500/random=1"
         },
         {
             productID : 1,
@@ -20,7 +20,7 @@ const CartContents = () => {
             color: "Blue",
             quantity: 1,
             price: "3000$",
-            image: "https://picsum.photos/200"
+            image: "https://picsum.photos/500/500/random=2"
         }
     ]
   return (

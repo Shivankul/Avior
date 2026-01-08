@@ -26,7 +26,7 @@ const Navbar = () => {
                 AVIOR</Link>
             </div>
             <div className='hidden md:flex items-center space-x-4 flex-wrap'>
-                <Link to="#" className='text-gray-600 hover:text-black text-sm font-medium uppercase'>Men</Link>
+                <Link to="/collection/all" className='text-gray-600 hover:text-black text-sm font-medium uppercase'>Men</Link>
                 <Link to="#" className='text-gray-600 hover:text-black text-sm font-medium uppercase'>Women</Link>
                 <Link to="#" className='text-gray-600 hover:text-black text-sm font-medium uppercase'>Top Wear</Link>
                 <Link to="#" className='text-gray-600 hover:text-black text-sm font-medium uppercase'>Bottom Wear</Link>
